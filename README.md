@@ -12,16 +12,18 @@
 
 ## 📁 Directory Structure
 
-.
 ├── MobileNetV1
    ├── MobileNetV1.ipynb # Main notebook containing MobileNetV1 model training and evaluation
+   
 ├── Resnet-50
    ├── Resnet-50.ipynb # Main notebook containing Resnet-50 model training and evaluation
+   
 ├── DatasetHuruf/ # Folder for sign language dataset
    ├── Mentahan
    ├── Train
    ├── Test
    ├── Valid
+   
 └── README.md # Project documentation
 
 ---
